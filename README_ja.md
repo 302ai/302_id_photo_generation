@@ -2,13 +2,13 @@
 
 <p align="center">AI による身分証用写真の生成は、写真内の画像を迅速に切り抜き、単色、グラデーションなどの様々な背景色の身分証用写真や印刷用のレイアウト写真を生成することができます。</p>
 
-<p align="center"><a href="https://302.ai/ja/tools/idphotos/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
+<p align="center"><a href="https://302.ai/product/detail/42" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ![インターフェースプレビュー](docs/证件照生成jp.png)
 
-[302.AI](https://302.ai/ja/)からの[AI証明写真生成](https://302.ai/ja/tools/idphotos/)オープンソース版です。
+[302.AI](https://302.ai/ja/)からの[AI証明写真生成](https://302.ai/product/detail/42)オープンソース版です。
 直接302.AIにログインして、コード不要でオンラインバージョンを使用できます。
 または、このプロジェクトを必要に応じて修正し、302.AIのAPI KEYを入力して自分でデプロイできます。
 
